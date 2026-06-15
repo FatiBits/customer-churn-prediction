@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- OS/System Files ---
+.DS_Store
+Thumbs.db
+
+# نکته: من خط مربوط به *.csv را حذف کردم تا دیتاسِتِت همراه پروژه آپلود بشه
+# چون برای اجرای نوت‌بوک، دیتاسِت لازمه.
