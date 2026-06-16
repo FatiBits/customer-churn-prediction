@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 IBM Telco Customer Churn Prediction
 
 An end-to-end Machine Learning project focused on predicting customer churn in the telecommunications industry.  
@@ -119,3 +120,6 @@ If you would like to connect:
 
 - LinkedIn: https://www.linkedin.com/in/fatemeh-fazel-17b96996
 - GitHub: https://github.com/FatiBits
+=======
+# customer-churn-prediction
+>>>>>>> cdfac74cc81b5564f760a56d779d05953bdbc631
