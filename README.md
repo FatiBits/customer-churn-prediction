@@ -52,6 +52,16 @@ Dataset file included in this repository.
    - Analyzed churn distribution
    - Investigated the relationship between churn and customer features
    - Visualized patterns using charts and plots
+    📊 Key Insights from Correlation Analysis:
+            To understand the relationship between different features and customer churn, I generated a correlation heatmap. 
+
+![Correlation Heatmap](9_advanced_heatmap.png)
+
+**Key Observations:**
+* **Contract Type (-0.40):** Strongest negative correlation, meaning long-term contracts significantly reduce churn.
+* **Tenure (-0.35):** Older customers are more loyal and less likely to churn.
+* **Monthly Charges (0.19):** Higher monthly fees show a slight trend toward increased churn.
+
 
 3. **Feature Engineering**
    - Encoded categorical variables
